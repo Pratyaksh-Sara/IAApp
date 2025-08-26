@@ -8,7 +8,7 @@ This repository contains my IB Computer Science Internal Assessment project: a J
 - `src/` — Java source code  
 - `nbproject/` — NetBeans project files    
 - `db/schema.sql` — MySQL database schema   
-- `Documentation/` — Full documentation (Internal Assessment Criterion A–E PDFs)  
+- `Documentation/` — Full documentation (Internal Assessment Criterion PDFs)  
 - `video-demo.mp4` — Demo video of the system  
 - `dist/IAApp.jar` — Built executable JAR (download from [Releases](../../releases))  
 - `README.md` — This file    
