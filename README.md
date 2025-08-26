@@ -18,3 +18,5 @@ Import schema:
 mysql -u root -p ia < db/schema.sql
 # Optional demo data:
 # mysql -u root -p ia < db/sample-data.sql
+## Download
+You can [download the latest JAR here](../../releases).
