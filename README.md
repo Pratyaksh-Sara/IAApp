@@ -1,4 +1,4 @@
-# IAApp — Inventory Management System (Java + MySQL)
+# Labket Merchandising — Inventory Management System (Java + MySQL)
 
 This repository contains my IB Computer Science Internal Assessment project: a Java desktop inventory management system built in NetBeans with MySQL.
 
